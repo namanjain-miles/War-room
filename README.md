@@ -24,7 +24,7 @@ After downloading, **extract (unzip) the file** before you start. Copilot Studio
 | `WarRoom_CasePack_SEALED.pdf` | Five real Indian business cases (the agent's knowledge) | Stage 2: upload it to your agent |
 | `1_Instructions.txt` | The agent's instructions and Integrity Protocol | Stage 3: paste into your agent |
 | `2_Skills/` | Four skills, each as a `SKILL.md` and a `.zip` | Stage 4: upload in order |
-| `WarRoom_RedTeam_Protocol.pdf` | How to test your neighbour's agent, forensic style | Stage 7: red-team round |
+| `WarRoom_RedTeam_Protocol.pdf` | How to test your neighbour's agent | Stage 7: red-team round |
 
 > ⚠️ **Do not read Section 2 of the Case Pack.** It contains the sealed outcomes. Reading it yourself is like reading the last page of a thriller first.
 
