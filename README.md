@@ -23,7 +23,7 @@ After downloading, **extract (unzip) the file** before you start. Copilot Studio
 | `WarRoom_Build_Sheet.pdf` | Your step-by-step guide with checkpoints | Open it first and keep it open |
 | `WarRoom_CasePack_SEALED.pdf` | Five real Indian business cases (the agent's knowledge) | Stage 2: upload it to your agent |
 | `1_Instructions.txt` | The agent's instructions and Integrity Protocol | Stage 3: paste into your agent |
-| `2_Skills/` | Four skills, each as a `SKILL.md` and a `.zip` | Stage 4: upload in order |
+| `2_Skills/` | Four skills, as `.zip` files | Stage 4: upload in order, as zips |
 | `WarRoom_RedTeam_Protocol.pdf` | How to test your neighbour's agent | Stage 7: red-team round |
 
 > ⚠️ **Do not read Section 2 of the Case Pack.** It contains the sealed outcomes. Reading it yourself is like reading the last page of a thriller first.
@@ -37,9 +37,9 @@ After downloading, **extract (unzip) the file** before you start. Copilot Studio
 | 1 | Create a new agent in Copilot Studio | |
 | 2 | Upload the Case Pack as knowledge | |
 | 3 | Paste the instructions and choose a personality | **C1:** say "Hi" |
-| 4 | Upload the four skills in this order: `situation-brief`, `stakeholder-challenge`, `outcome-review`, `decision-memo` | **C2:** all four appear |
+| 4 | Upload the four skills in this order: `situation-brief`, `stakeholder-challenge`, `outcome-review`, `decision-card` | **C2:** all four appear |
 | 5 | Play your assigned case (swap seats first) | **C3 to C6** |
-| 6 | Get your Decision Memo | **C7** |
+| 6 | Get your Decision Card | **C7** |
 | 7 | Red-team round: test your neighbour's agent | Evidence log |
 | 8 | Play a second case | |
 
