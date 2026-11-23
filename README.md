@@ -49,7 +49,6 @@ Full details are in `WarRoom_Build_Sheet.pdf`.
 
 ## ✅ Ground rules
 
-- **Driver** types, **Navigator** reads and checks. Swap seats at Stage 5.
 - Change only the **PERSONALITY** line in the instructions.
 - Don't skip a checkpoint. Fix it before moving on.
 - Start a **fresh Preview conversation** after any change.
